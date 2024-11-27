@@ -1,4 +1,4 @@
-# Hi there! Welcome to my GITHUB Profile 👋
+# Hi there! Welcome to my GITHUB
 My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
 
 <h2>I'm currently learning:</h2>
