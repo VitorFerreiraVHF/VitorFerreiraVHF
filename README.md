@@ -42,7 +42,15 @@ My name is Vitor, i'm a Full-Stack developer and i'm majoring in Information Sys
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height='100px' width='100px' /> 
                 <h4>GIT - VS Code</h4>
-            </td>               
+            </td>   
+            <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/powershell/powershell-original.svg" height='100px' width='100px' /> 
+                <h4>PowerShell</h4>
+            </td>   
+            <td style='width: 33%'>
+                <img src="https://icon-library.com/images/batch-icon/batch-icon-5.jpg" height='100px' width='100px' /> 
+                <h4>Batch</h4>
+            </td>                  
           </tr>       
 </table>    
 
