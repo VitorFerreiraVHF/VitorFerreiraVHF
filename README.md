@@ -5,58 +5,70 @@ My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
 
 <table>
          <tr>   
-            <td style='width: 33%' >
+            <td style='width: 20%' >
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='100px' width='100px' /> 
                 <h4>C#</h4>
             </td>
-            <td style='width: 33%' >
+            <td style='width: 20%' >
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-original.svg" height='100px' width='100px' /> 
                 <h4>HTML</h4>
             </td>
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='100px' width='100px' /> 
                 <h4 translate="no">Python</h4>
             </td>
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-original.svg" height='100px' width='100px' /> 
                 <h4>CSS</h4>
             </td>   
+            <td style='width: 20%'>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/windows8/windows8-original.svg" height='100px' width='100px' /> 
+                <h4>Windows</h4>
+            </td>  
          </tr>
          <tr>
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" height='100px' width='100px' /> 
                 <h4>JavaScript</h4>
             </td>
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height='100px' width='100px' /> 
                 <h4>DOCKER</h4>
             </td>
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='100px' width='100px' /> 
                 <h4>SQL Server</h4>
             </td> 
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/azuredevops/azuredevops-plain.svg" height='100px' width='100px' /> 
                 <h4>Azure DevOps</h4>
+            </td>   
+            <td style='width: 20%'>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/yaml/yaml-original.svg" height='100px' width='100px' /> 
+                <h4>YAML</h4>
             </td>                   
          </tr>
           <tr>           
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='100px' width='100px' /> 
                 <h4>GIT</h4>
             </td>         
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height='100px' width='100px' /> 
                 <h4>GIT - VS Code</h4>
             </td>   
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/powershell/powershell-original.svg" height='100px' width='100px' /> 
                 <h4>PowerShell</h4>
             </td>   
-            <td style='width: 33%'>
+            <td style='width: 20%'>
                 <img src="https://icon-library.com/images/batch-icon/batch-icon-5.jpg" height='100px' width='100px' /> 
                 <h4>Batch</h4>
-            </td>                  
+            </td>       
+            <td style='width: 20%'>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/canva/canva-original.svg" height='100px' width='100px' /> 
+                <h4 translate="no">Canva</h4>
+            </td>                      
           </tr>       
 </table>    
 
