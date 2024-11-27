@@ -1,5 +1,5 @@
 # Hi there! Welcome to my GITHUB Profile 👋
-My name is Vitor, i'm a Full-Stack developer and i'm majoring in Information Systems
+My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
 
 <h2>I'm currently learning:</h2>
 
@@ -20,11 +20,13 @@ My name is Vitor, i'm a Full-Stack developer and i'm majoring in Information Sys
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-original.svg" height='100px' width='100px' /> 
                 <h4>CSS</h4>
-            </td>
+            </td>   
+         </tr>
+         <tr>
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" height='100px' width='100px' /> 
                 <h4>JavaScript</h4>
-            </td>    
+            </td>
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height='100px' width='100px' /> 
                 <h4>DOCKER</h4>
