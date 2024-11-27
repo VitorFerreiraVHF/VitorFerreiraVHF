@@ -10,81 +10,31 @@ My name is Vitor, i'm a Full-Stack developer and i'm majoring in Information Sys
                 <h4>C#</h4>
             </td>
             <td style='width: 33%' >
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height='100px' width='100px' /> 
-                <h4>C</h4>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-original.svg" height='100px' width='100px' /> 
+                <h4>HTML</h4>
             </td>
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height='100px' width='100px' /> 
                 <h4 translate="no">Python</h4>
             </td>
             <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='100px' width='100px' /> 
-                <h4>Typescript</h4>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-original.svg" height='100px' width='100px' /> 
+                <h4>CSS</h4>
             </td>
             <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height='100px' width='100px' /> 
-                <h4>Java</h4>
-            </td>
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height='100px' width='100px' /> 
-                <h4>Go</h4>
-            </td>   
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height='100px' width='100px' /> 
-                <h4>PHP</h4>
-            </td>   
-         </tr>
-         <tr>
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height='100px' width='100px' /> 
-                <h4>Spring Boot</h4>
-            </td>              
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='100px' width='100px' /> 
-                <h4>React</h4>
-            </td>
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height='100px' width='100px' /> 
-                <h4>React Native</h4>
-            </td>
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height='100px' width='100px' /> 
-                <h4>Nest js</h4>
-            </td>      
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height='100px' width='100px' /> 
-                <h4>Vue</h4>
-            </td>       
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" height='100px' width='100px' /> 
-                <h4>Gulp</h4>
-            </td> 
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height='100px' width='100px' /> 
-                <h4>JQuery</h4>
-            </td>                   
-          </tr>
-          <tr>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" height='100px' width='100px' /> 
+                <h4>JavaScript</h4>
+            </td>    
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height='100px' width='100px' /> 
                 <h4>DOCKER</h4>
-            </td>  
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height='100px' width='100px' /> 
-                <h4>DOTNET CORE</h4>
-            </td>  
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height='100px' width='100px' /> 
-                <h4>Node</h4>
-            </td>                
+            </td>
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='100px' width='100px' /> 
                 <h4>SQL Server</h4>
-            </td>       
-            <td style='width: 33%'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height='100px' width='100px' /> 
-                <h4>Mongo DB</h4>
-            </td>       
+            </td> 
+         </tr>
+          <tr>           
             <td style='width: 33%'>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='100px' width='100px' /> 
                 <h4>GIT</h4>
