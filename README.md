@@ -35,6 +35,10 @@ My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='100px' width='100px' /> 
                 <h4>SQL Server</h4>
             </td> 
+            <td style='width: 33%'>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/azuredevops/azuredevops-plain.svg" height='100px' width='100px' /> 
+                <h4>Azure DevOps</h4>
+            </td>                   
          </tr>
           <tr>           
             <td style='width: 33%'>
