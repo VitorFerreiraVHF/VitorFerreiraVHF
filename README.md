@@ -2,7 +2,7 @@
 My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
 
 <h2>I'm currently learning:</h2>
-
+<center>
 <table>
          <tr>   
             <td style='width: 20%' >
@@ -70,9 +70,9 @@ My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
                 <h4 translate="no">Canva</h4>
             </td>                      
           </tr>       
-</table>    
+</table>         
+</center>
 
-</div>
 
 <div>
 <a href="https://github.com/VitorFerreiraVHF">
