@@ -25,6 +25,11 @@ My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
                 <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/windows8/windows8-original.svg" height='100px' width='100px' /> 
                 <h4>Windows</h4>
             </td>  
+            </td>   
+            <td style='width: 20%'>
+                <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-plain.svg" height='100px' width='100px' /> 
+                <h4>Wordpress</h4>
+            </td>
          </tr>
          <tr>
             <td style='width: 20%'>
