@@ -8,23 +8,23 @@ My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
 <table>
   <tr>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-original.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/html5/html5-original.svg" height='50px' width='50px' /><br>
       <h4>HTML</h4>
     </td>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-original.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/css3/css3-original.svg" height='50px' width='50px' /><br>
       <h4>CSS</h4>
     </td>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" height='50px' width='50px' /><br>
       <h4>JavaScript</h4>
     </td>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-plain.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/wordpress/wordpress-plain.svg" height='50px' width='50px' /><br>
       <h4>Wordpress</h4>
     </td>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/canva/canva-original.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/canva/canva-original.svg" height='50px' width='50px' /><br>
       <h4>Canva</h4>
     </td>
   </tr>
@@ -36,15 +36,15 @@ My name is Vitor, i'm a DevSecOps Infra and i'm majoring in Information Systems
 <table>
   <tr>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height='50px' width='50px' /><br>
       <h4>C#</h4>
     </td>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/python/python-original.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/python/python-original.svg" height='50px' width='50px' /><br>
       <h4>Python</h4>
     </td>
     <td style='width: 10%; text-align: center;'>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='100px' width='100px' /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='50px' width='50px' /><br>
       <h4>SQL Server</h4>
     </td>
   </tr>
