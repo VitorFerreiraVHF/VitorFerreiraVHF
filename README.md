@@ -11,7 +11,7 @@ Apaixonado por automação, segurança e soluções eficientes! 🚀
 - 🛡️ **Atuação:** DevSecOps & Infraestrutura
 - 🌱 **Interesses:** Segurança, Cloud, Automação, Desenvolvimento Full Stack
 - 💬 **Idiomas:** Português (nativo) | Inglês (básico)
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/vitorferreiravhf/) | [Email](mailto:vitorferreiravhf@gmail.com)
+- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/vitor-hugo-ferreira-borges/) | [Email](mailto:vitorhugoferreiraborges2001@gmail.com)
 
 ---
 
