@@ -118,15 +118,6 @@ Gosto de transformar **processos manuais em soluções automatizadas**, sempre c
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitorFerreiraVHF&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFerreiraVHF&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitor-hugo-ferreira-borges/)
