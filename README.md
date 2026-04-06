@@ -90,7 +90,7 @@ Gosto de transformar **processos manuais em soluções automatizadas**, sempre c
       <b>PowerShell</b>
     </td>
     <td align="center" width="100">
-      <img src="https://icon-library.com/images/batch-icon/batch-icon-5.jpg" height="45"/><br/>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/bash/bash-original.svg" height="45"/><br/>
       <b>Batch</b>
     </td>
     <td align="center" width="100">
@@ -112,6 +112,10 @@ Gosto de transformar **processos manuais em soluções automatizadas**, sempre c
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45"/><br/>
       <b>VS Code</b>
+    </td>
+        <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/powershell/powershell-plain.svg" height="45"/><br/>
+      <b>PowerShell ISE</b>
     </td>
   </tr>
 </table>
