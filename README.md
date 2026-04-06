@@ -117,6 +117,14 @@ Gosto de transformar **processos manuais em soluções automatizadas**, sempre c
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/powershell/powershell-plain.svg" height="45"/><br/>
       <b>PowerShell ISE</b>
     </td>
+        <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/grafana/grafana-original.svg" height="45"/><br/>
+      <b>Grafana</b>
+    </td>
+        <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kibana/kibana-original.svg" height="45"/><br/>
+      <b>Kibana</b>
+    </td>
   </tr>
 </table>
 
